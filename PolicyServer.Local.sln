@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{25D18EFB-6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolicyServerLocal.Tests", "test\PolicyServerLocal.Tests\PolicyServerLocal.Tests.csproj", "{EF40A197-4540-43BD-BBFE-D7C35316E089}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolicyServer.Blazor", "PolicyServer.Blazor\PolicyServer.Blazor.csproj", "{2F063DD6-3DB0-4F1D-84A7-B319EEFE3872}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolicyServer.Blazor", "src\PolicyServer.Blazor\PolicyServer.Blazor.csproj", "{2F063DD6-3DB0-4F1D-84A7-B319EEFE3872}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolicyServer.Local", "src\PolicyServer.Local\PolicyServer.Local.csproj", "{FB4249FC-D89F-433E-ACA0-1C8C1EB8E27D}"
 EndProject
