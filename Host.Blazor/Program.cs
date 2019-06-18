@@ -1,6 +1,3 @@
-﻿// Copyright (c) Brock Allen, Dominick Baier, Michele Leroux Bustamante. All rights reserved.
-// Licensed under the Apache License, Version 2.0. See LICENSE in the project root for license information.
-
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -12,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace Host
+namespace Host.Blazor
 {
     public class Program
     {

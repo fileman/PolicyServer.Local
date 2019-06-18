@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\PolicyServer.Local\PolicyServer.Local.csproj" />
+    <ProjectReference Include="..\..\PolicyServer.Blazor\PolicyServer.Blazor.csproj" />
   </ItemGroup>
 
 </Project>
