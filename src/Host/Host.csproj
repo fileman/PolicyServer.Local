@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\PolicyServer.Blazor\PolicyServer.Blazor.csproj" />
+    <ProjectReference Include="..\PolicyServer.Blazor\PolicyServer.Blazor.csproj" />
   </ItemGroup>
 
 </Project>
